@@ -1,5 +1,5 @@
 {
-  "versionCode": 1,
+  "versionCode": 1.1,
   "versionName": "1.0",
   "Msg": "New update is available, to continue in our app please update it.
 
@@ -8,6 +8,7 @@ What's new:
 - Bug Fixes.
 - New Features introduced.
 - Others minor changes.
+- Version 1.1
 
 Thanks for using",
   "downloadLink": "https://www.youtube.com/@MrZoid17_"
